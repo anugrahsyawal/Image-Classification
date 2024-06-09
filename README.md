@@ -14,4 +14,5 @@ Selamat, Anda telah berada di akhir pembelajaran dalam akademi ini. Anda sudah m
 - Akurasi dari model minimal 85%.
 - Dapat memprediksi gambar yang diunggah ke Colab
 - Manambahkan data diri (sesuai profil Dicoding) pada submission/project yang dikirimkan.
+
 Course ini dapat diakses melalui https://www.dicoding.com/academies/184
